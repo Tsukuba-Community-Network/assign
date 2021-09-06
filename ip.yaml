@@ -1,0 +1,9 @@
+ip:
+  - address: 10.0.0.0/16
+    name: internal
+  - address: 10.1.0.0/16
+    name: edge
+  - address: 10.2.0.0/24
+    name: onokatio-home-net
+  - address: 10.2.1.0/24
+    name: onokatio-dc-net
